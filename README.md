@@ -6,6 +6,8 @@
   生产力工具：Samba4,Openlist2,Dae,Tailscale
   
   开启内核eBPF，Dae吃鹅优选，512MB内存仍然开心使用！
+
+  更多功能OpenClash、HomeProxy➡️https://github.com/GHNERCH/OpenWRT-CI  
   
   刷机前请更换分区表和uboot,参考链接: https://www.right.com.cn/forum/thread-8402269-1-1.html            
   
