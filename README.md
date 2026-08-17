@@ -1,13 +1,13 @@
-# IPQ6000系列6.18固件
+# IPQ6000系列6.18-MINI固件
   
   固件集成增强版geoip.dat、geosite.dat,开箱即用，正确配置Dae不会报错
 
   源码来自：  [VIKINGYFY](https://github.com/VIKINGYFY/OpenWRT-CI) & [davidtall](https://github.com/davidtall/DaeWRT-CI)  
   略微修改，适度精简，确保最大性能发挥。
 
-  生产力工具：Samba4,Openlist2,Dae,Homeproxy,Openclash,Tailscale
+  生产力工具：Samba4,Openlist2,Dae,Tailscale
   
-  开启内核eBPF，Dae吃鹅优选，建议硬改1GB内存的使用。
+  开启内核eBPF，Dae吃鹅优选，512MB内存仍然开心使用！
   
   刷机前请更换分区表和uboot,参考链接: https://www.right.com.cn/forum/thread-8402269-1-1.html            
   
