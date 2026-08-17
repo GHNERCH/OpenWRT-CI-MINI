@@ -1,6 +1,4 @@
 # IPQ6000系列6.18-MINI固件
-  
-  固件集成增强版geoip.dat、geosite.dat,开箱即用，正确配置Dae不会报错
 
   源码来自：  [VIKINGYFY](https://github.com/VIKINGYFY/OpenWRT-CI) & [davidtall](https://github.com/davidtall/DaeWRT-CI)  
   略微修改，适度精简，确保最大性能发挥。
