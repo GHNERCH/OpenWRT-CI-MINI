@@ -3,7 +3,7 @@
   源码来自：  [VIKINGYFY](https://github.com/VIKINGYFY/OpenWRT-CI) & [davidtall](https://github.com/davidtall/DaeWRT-CI)  
   略微修改，适度精简，确保最大性能发挥。
 
-  生产力工具：Samba4,Openlist2,Dae,Tailscale
+  生产力工具：Samba4,Openlist2,Dae
   
   开启内核eBPF，Dae吃鹅优选，512MB内存仍然开心使用！
 
